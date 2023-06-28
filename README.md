@@ -1,5 +1,5 @@
 # Medlytics Week 1
-Welcome! This is the repository for all lectures, assignments, and datasets for Week 1 of the BeaverWorks Medlytics course for 2022. The slides are provided here for easy reference, but will be presented in lecture format. You should fork this repository at the beginning of the week and work on your own copy when completing notebooks and challenge projects.
+Welcome! This is the repository for all lectures, assignments, and datasets for Week 1 of the BeaverWorks Medlytics course for 2023. The slides are provided here for easy reference, but will be presented in lecture format. You should fork this repository at the beginning of the week and work on your own copy when completing notebooks and challenge projects.
 
 Datasets Used in this Repo:
 
