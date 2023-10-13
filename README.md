@@ -14,4 +14,4 @@ Depression Dataset from UFHealth Biostatistics Open Learning Textbook: http://bo
 ## Challenge Project
 * Contains the hypothyroidism challenge for the end of week 1. Students have to classify whether a patient has hypothyroidism or not given a tabular dataset. Creator: Lyle Lalunio.
 
-Hypothyroidism Data from UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/thyroid+disease  
+Hypothyroidism Data from UCI Machine Learning Repository: http://archive.ics.uci.edu/ml/datasets/thyroid+disease
