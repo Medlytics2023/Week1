@@ -8,7 +8,7 @@ Depression Dataset from UFHealth Biostatistics Open Learning Textbook: http://bo
 
 ## Notebooks
 * Contains Jupyter Notebook lessons where students will need to write their own code
-* Contains Jupyter Notebook Solutions (will be uploaded after lesson notebooks are completed by students)
+* Contains Jupyter Notebook solutions (will be uploaded after lesson notebooks are completed by students)
 
 
 ## Challenge Project
